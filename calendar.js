@@ -1,6 +1,6 @@
 /*
  * This file contains the logic to find the positioning of events in a day of a calendar. 
- * Assumption: Id of the events is a number.
+ * Assumption: ID of an event is always a number.
  * 
  * Author: Yogita Sharma
  */
